@@ -1,5 +1,5 @@
 # week5.folder
-# Pandas Project
+# Professional project structure & relaative paths
 
 
   This project demonstrates basic data loading and analysis using pandas.
